@@ -66,7 +66,7 @@ public void playGame(){
     
     while(running){
         System.out.println();
-        System.out.println("Player "+player+" enter row and column seperated by space between 0 - 2");
+        System.out.print("Player "+player+" enter row and column seperated by space between 0 - 2: ");
         int row=sc.nextInt();
         int col=sc.nextInt();
         if(isValidMove(row,col)){
