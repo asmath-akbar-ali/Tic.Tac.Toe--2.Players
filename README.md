@@ -1,7 +1,7 @@
 # Tic Tac Toe Game in Java
 
 ## Overview
-  This is a simple console-based Tic Tac Toe game implemented in Java. It allows two players to take turns marking spaces on a 3x3 grid. The game continues until a player wins or the board is full (resulting in a draw).
+  This is a simple console-based Tic Tac Toe game implemented in Java. It allows two players to take turns marking spaces on a 3x3 grid. The game continues until a player wins or the board is full (resulting in a draw)
 
 ## Features
 - Two-player gameplay
